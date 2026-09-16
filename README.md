@@ -16,3 +16,8 @@ This repository stores assignments, projects, and documentation for the CI001 co
 
 ## GitHub Pages Site
 Visit my personal website: [https://1153326.github.io/](https://1153326.github.io/)
+
+## File Organization
+- `assignments/`: 存放每次作業的程式與相關檔案。
+- `projects/`: 存放課程專題或大型練習。
+- `docs/`: 存放課程筆記、說明文件與截圖。
